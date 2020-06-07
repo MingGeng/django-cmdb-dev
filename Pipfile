@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django-filter = "==2.1.0"
+asgiref = "==3.2.7"
+django = "==3.0.5"
+django-filters = "==0.2.1"
+djangorestframework = "==3.11.0"
+pytz = "==2020.1"
+sqlparse = "==0.3.1"
+mysqlclient = "*"
+pymysql = "*"
+django-webpack-loader = "*"
+
+[requires]
+python_version = "3.6"
