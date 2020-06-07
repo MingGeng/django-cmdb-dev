@@ -28,7 +28,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.7.0",
     "bootstrap": "^4.2.1",
-    "jquery": "^1.9.1",
+    "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "react": "^16.8.0-alpha.1",
     "react-dom": "^16.8.0-alpha.1"
